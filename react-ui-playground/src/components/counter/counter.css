@@ -1,0 +1,20 @@
+.counter-container{
+    width:350px;
+    gap:2rem;
+    margin:3rem;
+}
+h2{
+    padding:1rem;
+}
+p{
+    font-size:3rem;
+}
+.counter-btns{
+    margin-bottom:3rem;
+    display:flex;
+    width:90%;
+    gap:0.75rem;
+}
+button{
+    flex:1;   
+}
