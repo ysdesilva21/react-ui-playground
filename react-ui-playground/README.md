@@ -1,16 +1,55 @@
-# React + Vite
+# React UI Playground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A growing collection of small React UI experiments, components, and interactive mini-features.
 
-Currently, two official plugins are available:
+This repo is used as a learning sandbox to practice React fundamentals, hooks, and UI logic without project constraints.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🧠 Purpose
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Instead of building isolated projects, this repo acts as a **living UI lab** where I continuously add:
 
-## Expanding the ESLint configuration
+- Small React components
+- Hook experiments
+- UI interactions
+- Mini tools and widgets
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## while i am learning React
+
+## 🚀 Current ui components
+
+### 1. Counter UI
+
+Basic counter using `useState`.
+
+- Increment / Decrement / Reset
+- State updates with button clicks
+
+## 🛠️ Tech Stack
+
+- React
+- JavaScript (ES6+)
+- CSS / Tailwind (optional later)
+- Vite (recommended)
+
+---
+
+## 📌 How to Run
+
+```
+
+# 1. Clone the repository
+git clone https://github.com/your-username/react-ui-playground.git
+
+# 2. Go into the project folder
+cd react-ui-playground
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the dev server
+npm run dev
+
+
+```
