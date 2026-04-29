@@ -26,6 +26,9 @@ Basic counter using `useState`.
 - Increment / Decrement / Reset
 - State updates with button clicks
 
+  <img width="530" height="515" alt="Screenshot 2026-04-29 214715" src="https://github.com/user-attachments/assets/deb11681-8e6a-486b-acf9-ea8a528cfea8" />
+
+
 ## 🛠️ Tech Stack
 
 - React
