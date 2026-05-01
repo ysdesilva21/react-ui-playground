@@ -1,10 +1,17 @@
 :root {
   /* Colors */
   --bg: #0f172a;
-  --surface: #1e293b;
-  --text: #e2e8f0;
+  --surface: #111827;
+
+  --text: #f8fafc;
+  --text-muted: #94a3b8;
+
+  --accent: #38bdf8;
+  --accent-hover: #0ea5e9;
+
   --primary: #6366f1;
   --danger: #ef4444;
+   --danger-hover: #ef4444;
 
   /* Spacing */
   --space-xs: 4px;

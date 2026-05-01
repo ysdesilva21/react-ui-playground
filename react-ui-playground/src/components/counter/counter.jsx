@@ -23,7 +23,6 @@ function Counter(){
                 <button className="danger-btn"onClick={resetToggler}>Reset</button>
                 <button onClick={incrementToggler}>Increment</button>
             </div>
-            
         </div>
     );
 }

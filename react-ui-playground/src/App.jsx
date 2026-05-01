@@ -1,4 +1,5 @@
-import Counter from './components/counter/counter'
+import Counter from './components/counter/counter';
+
 
 function App() {
   return (
@@ -6,8 +7,9 @@ function App() {
       <h1>React UI Collection</h1>
       <Counter />
     </>
+    
       
-  )
+  );
 }
 
 export default App
