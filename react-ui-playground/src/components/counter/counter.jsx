@@ -19,9 +19,9 @@ function Counter(){
             <h2>Counter UI</h2>
             <p>{count}</p>
             <div className="counter-btns">
-                <button onClick={incrementToggler}>Increment</button>
-                <button className="danger-btn"onClick={resetToggler}>Reset</button>
                 <button onClick={decrementToggler}>Decrement</button>
+                <button className="danger-btn"onClick={resetToggler}>Reset</button>
+                <button onClick={incrementToggler}>Increment</button>
             </div>
             
         </div>
